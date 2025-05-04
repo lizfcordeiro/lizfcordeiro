@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-☕ Estou atualmente programando e estudando Java!
+☕
 
 <div align="center">
   <a href="https://github.com/lizfcordeiro">
